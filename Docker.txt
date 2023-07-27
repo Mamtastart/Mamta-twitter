@@ -1,12 +1,11 @@
 
 This is a docker file
 
+ok lets go aheads
+
 ok lets go ahead
 
 
 This is a docker of a file for not learning
 Lets start learning
 
-// add new next
-
-Good ok
